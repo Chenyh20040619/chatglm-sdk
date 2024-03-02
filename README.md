@@ -421,6 +421,5 @@ chatglm:
       # 官网地址 
       api-host: https://open.bigmodel.cn/
       # 官网申请 https://open.bigmodel.cn/usercenter/apikeys
-      api-secret-key: 4e087e4135306ef4a676f0cce3cee560.sgP2DUs*****
 ```
 
